@@ -74,7 +74,7 @@ AI document Q&A app using Gemini embeddings + vector search
 
 ### 🎌 Otaku List
 Anime discovery platform optimized for Indian viewers  
-🔗 https://otaku-anime-list.vercel.app
+🔗 https://av-otakulist.vercel.app
 
 ### 🔐 PassMan
 Secure password manager built with Node.js + MongoDB
