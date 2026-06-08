@@ -67,10 +67,11 @@ I’ve delivered production apps for clients, built AI-powered tools, and contri
 
 ### 🌍 SoloTraveller
 Budget-focused solo travel platform with Markdown CMS, Supabase backend, Redis rate limiting  
-🔗 https://solo-traveller-life.vercel.app
+🔗 https://av-solotraveller.vercel.app
 
 ### 📖 PDF Analyzer (NotebookLM Clone)
 AI document Q&A app using Gemini embeddings + vector search
+🔗 https://gn-clone.vercel.app
 
 ### 🎌 Otaku List
 Anime discovery platform optimized for Indian viewers  
