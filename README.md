@@ -47,6 +47,8 @@ I’ve delivered production apps for clients, built AI-powered tools, and contri
 - Express
 - REST APIs
 - JWT Authentication
+- Go
+- Python
 
 ### Databases
 - PostgreSQL
@@ -71,6 +73,7 @@ Budget-focused solo travel platform with Markdown CMS, Supabase backend, Redis r
 
 ### 📖 PDF Analyzer (NotebookLM Clone)
 AI document Q&A app using Gemini embeddings + vector search
+
 🔗 https://gn-clone.vercel.app
 
 ### 🎌 Otaku List
